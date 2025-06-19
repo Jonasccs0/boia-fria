@@ -69,3 +69,6 @@ O Boia Fria oferece um conjunto abrangente de recursos para gerenciar sua fazend
 Agradecemos o seu interesse no Boia Fria. Estamos comprometidos em ajudar sua fazenda a prosperar!
 
 *Desenvolvido com o objetivo de otimizar a pecuária de corte*
+
+## Contributing
+
